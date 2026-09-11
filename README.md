@@ -1,7 +1,7 @@
-<h1 align="center">Olá, eu sou o Marcelo Natan! 👨‍💻🎮</h1>
+<h1 align="center">Olá, eu sou o Marcelo Natan! 👨‍💻</h1>
 
 <p align="center">
-  Desenvolvedor de Jogos • Programador Java • Especialista em Engenharia de Software e Gestão de Projetos
+  Gestão de TI • Desenvolvimento SaaS • Stack MEVN • Engenharia de Software • IA aplicada
 </p>
 
 <p align="center">
@@ -20,31 +20,36 @@
 
 ### 👨‍💻 Sobre mim
 
-Sou do **Rio de Janeiro - Brasil** e minha trajetória conecta **desenvolvimento de jogos**, **programação Java**, **engenharia de software**, **gestão de projetos** e **IA generativa**.
+Sou do **Rio de Janeiro - Brasil** e atuo conectando **gestão de TI**, **desenvolvimento de sistemas**, **SaaS**, **engenharia de software**, **automação de processos** e **IA aplicada**.
 
-Sou **Tecnólogo em Jogos Digitais pelo IFRJ**, **especialista em Engenharia de Software e Gestão de Projetos pela Faculdade Estratego** e sigo aprofundando meus estudos em **Programação Java pela UTFPR**.
+Minha formação combina tecnologia, produto e gestão: sou **Tecnólogo em Jogos Digitais pelo IFRJ**, **especialista em Engenharia de Software e Gestão de Projetos pela Faculdade Estratego** e sigo aprofundando meus estudos em **Programação Java pela UTFPR**.
 
-Atuo como desenvolvedor independente e estudante contínuo, criando experiências digitais com foco em narrativa, sistemas interativos e propósito. Tenho interesse especial em jogos que dialogam com **saúde mental**, **RPGs narrativos**, **contextos complexos** e no uso de **inteligência artificial** como ferramenta criativa e técnica.
+Hoje meu foco principal está no desenvolvimento de **sistemas web e SaaS**, especialmente com a **stack MEVN**: **MongoDB**, **Express.js**, **Vue.js** e **Node.js**. Também trabalho com modelagem de regras de negócio, arquitetura de módulos, organização de fluxos operacionais, documentação técnica e apoio à tomada de decisão em projetos de TI.
+
+Minha base em jogos digitais continua presente como diferencial criativo: ela fortalece minha visão sobre experiência do usuário, narrativa, sistemas interativos e construção de produtos com propósito.
 
 ---
 
 ### 🎯 O que me move
 
-- Criar jogos que sejam mais do que entretenimento: experiências com significado, emoção e impacto.
-- Evoluir como desenvolvedor Java, C# e game developer, aplicando boas práticas de engenharia de software.
-- Explorar IA generativa no desenvolvimento de software, jogos, narrativas e prototipação criativa.
-- Trabalhar com projetos que unam tecnologia, criatividade, educação e transformação social.
+- Criar sistemas úteis, organizados e sustentáveis para problemas reais de operação e gestão.
+- Evoluir como desenvolvedor SaaS, com foco em arquitetura, regras de negócio, automação e experiência do usuário.
+- Aplicar IA generativa como apoio para análise, documentação, prototipação, desenvolvimento e melhoria de processos.
+- Unir conhecimento técnico, gestão de projetos e visão de produto para transformar ideias em soluções funcionais.
+- Manter minha bagagem em jogos como campo criativo para projetos narrativos, educacionais e interativos.
 
 ---
 
 ### 🧠 Atualmente explorando
 
-- **Java** aplicado a projetos mais robustos e bem estruturados
-- **Godot Engine** e desenvolvimento de jogos 2D
-- **Unity** e desenvolvimento com C#
-- **SOLID**, arquitetura de software e padrões de projeto
-- **IA generativa** aplicada a software, jogos e design narrativo
-- **Git e GitHub** para versionamento, colaboração e portfólio técnico
+- **Stack MEVN** para construção de aplicações SaaS
+- **Node.js**, **Express.js** e APIs REST
+- **Vue.js** para interfaces web modernas
+- **MongoDB** e modelagem de dados para sistemas reais
+- **Arquitetura modular**, regras de negócio e organização de código
+- **IA generativa** aplicada a software, documentação, análise e automação
+- **Java** como base complementar de estudo e evolução técnica
+- **Git e GitHub** para versionamento, colaboração e portfólio
 
 ---
 
@@ -52,13 +57,16 @@ Atuo como desenvolvedor independente e estudante contínuo, criando experiência
 
 | Área | Tecnologias |
 |---|---|
-| **Linguagens** | Java, C#, JavaScript |
+| **Stack principal** | MongoDB, Express.js, Vue.js, Node.js |
+| **Linguagens** | JavaScript, Java, C# |
+| **Frontend** | Vue.js, HTML, CSS, Bootstrap |
+| **Backend** | Node.js, Express.js, APIs REST |
+| **Banco de dados** | MongoDB |
 | **Game Engines** | Unity, Godot |
-| **Web** | HTML, CSS, Bootstrap |
-| **IDE/Ferramentas** | IntelliJ IDEA, NetBeans, Visual Studio, Astah UML |
-| **Engenharia** | SOLID, UML, padrões de projeto, gestão de projetos |
+| **IDE/Ferramentas** | Visual Studio Code, IntelliJ IDEA, NetBeans, Visual Studio, Astah UML |
+| **Engenharia e gestão** | SOLID, UML, padrões de projeto, documentação, gestão de projetos, gestão de TI |
 | **Versionamento** | Git, GitHub |
-| **Interesses** | IA generativa, jogos narrativos, RPGs, saúde mental, educação |
+| **Interesses** | SaaS, automação, IA generativa, gestão de TI, jogos narrativos, educação |
 
 ---
 
@@ -68,7 +76,7 @@ Projetos e frentes que venho desenvolvendo, estudando ou estruturando com apoio 
 
 | Projeto | Descrição | Status |
 |---|---|---|
-| **Manacá Noivas** | Sistema de gestão para ateliê e locação de vestidos, com módulos de contratos, agenda, financeiro, contas a pagar, rastreabilidade por QR Code e regras de bloqueio de peças por evento. | Em desenvolvimento |
+| **Manacá Noivas** | Sistema de gestão para ateliê e locação de vestidos, com módulos de contratos, agenda, financeiro, contas a pagar, rastreabilidade por QR Code e regras de disponibilidade de peças por evento. | Em desenvolvimento |
 | **VL DOCS** | Plataforma SaaS multi-tenant voltada para gestão de documentos e arquivos, com foco em organização, controle de acesso e estrutura escalável. | Em estruturação |
 | **VL CONTROL** | Sistema de controle e gestão criado do zero, com foco em organização operacional, processos internos e evolução modular. | Em modelagem |
 | **VL Report** | Sistema de relatórios e acompanhamento de ordens de serviço, incluindo melhorias de listagem, busca e organização de informações. | Em evolução |
@@ -77,7 +85,9 @@ Projetos e frentes que venho desenvolvendo, estudando ou estruturando com apoio 
 
 ---
 
-### 🎮 Jogos publicados
+### 🎮 Base criativa em jogos
+
+Antes de direcionar meu foco atual para sistemas, SaaS e gestão de TI, construí uma base sólida em desenvolvimento de jogos. Esses projetos representam minha origem criativa e meu interesse por experiências interativas:
 
 | Projeto | Descrição | Link |
 |---|---|---|
@@ -117,4 +127,4 @@ Revista **EDU.TEC FAETERJ** - Edição 2013-2
 
 ---
 
-> 🕹️ **Games são mais do que diversão: são ferramentas poderosas para transformação.**
+> **Tecnologia bem aplicada transforma processos, produtos e pessoas.**
