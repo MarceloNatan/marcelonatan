@@ -117,12 +117,16 @@ Revista **EDU.TEC FAETERJ** - Edição 2013-2
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=marcelonatan&style=flat-square" alt="visitas no perfil" />
+  <img src="https://komarev.com/ghpvc/?username=MarceloNatan&style=flat-square" alt="visitas no perfil" />
 </p>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcelonatan&show_icons=true&theme=tokyonight" alt="GitHub stats de Marcelo Natan" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelonatan&layout=compact&theme=tokyonight" alt="Linguagens mais usadas por Marcelo Natan" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MarceloNatan&amp;theme=tokyonight" alt="Estatísticas do GitHub de Marcelo Natan" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MarceloNatan&amp;theme=tokyonight" alt="Linguagens por repositório de Marcelo Natan" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MarceloNatan&amp;theme=tokyonight" alt="Resumo de contribuições de Marcelo Natan" />
 </p>
 
 ---
