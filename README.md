@@ -62,7 +62,22 @@ Atuo como desenvolvedor independente e estudante contínuo, criando experiência
 
 ---
 
-### 🚀 Projetos em destaque
+### 🚧 Projetos atuais
+
+Projetos e frentes que venho desenvolvendo, estudando ou estruturando com apoio de IA, engenharia de software e boas práticas de produto:
+
+| Projeto | Descrição | Status |
+|---|---|---|
+| **Manacá Noivas** | Sistema de gestão para ateliê e locação de vestidos, com módulos de contratos, agenda, financeiro, contas a pagar, rastreabilidade por QR Code e regras de bloqueio de peças por evento. | Em desenvolvimento |
+| **VL DOCS** | Plataforma SaaS multi-tenant voltada para gestão de documentos e arquivos, com foco em organização, controle de acesso e estrutura escalável. | Em estruturação |
+| **VL CONTROL** | Sistema de controle e gestão criado do zero, com foco em organização operacional, processos internos e evolução modular. | Em modelagem |
+| **VL Report** | Sistema de relatórios e acompanhamento de ordens de serviço, incluindo melhorias de listagem, busca e organização de informações. | Em evolução |
+| **App de IA para Reforma Tributária** | Estudo/protótipo de aplicação com inteligência artificial para apoiar consulta, interpretação e organização de informações sobre a Reforma Tributária. | Em estudo |
+| **Automações e relatórios mensais** | Organização de rotinas, relatórios e análises para acompanhamento de resultados, decisões e prioridades de projetos. | Em uso |
+
+---
+
+### 🎮 Jogos publicados
 
 | Projeto | Descrição | Link |
 |---|---|---|
